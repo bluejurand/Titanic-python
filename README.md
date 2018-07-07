@@ -24,3 +24,30 @@ For medium size to larger projects it is important to at least provide a link to
 ## Tests
 
 Describe and show how to run the tests with code examples.
+
+Key Concepts
+Machine Learning
+
+Classification
+
+Cross-Validation
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
+
+Model Evaluation
+-Scores
+-Classification reports
+-Visualization tools
+-Precision recall
+
+Key Tools in Scikit-Learn
+Linear Regression
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+Random Forests
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+Support Vector Machines
+http://scikit-learn.org/stable/modules/svm.html
+
+Sources
+This tutorial is based on the following tutorials for Kaggle's titanic competition: https://www.kaggle.com/mlchang/titanic/logistic-model-using-scikit-learn/run/91385 https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
