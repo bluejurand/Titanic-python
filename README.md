@@ -19,10 +19,10 @@ __Cross-Validation__
 http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
 
 __Model Evaluation__
--Scores
--Classification reports
--Visualization tools
--Precision recall
+  -Scores
+  -Classification reports
+  -Visualization tools
+  -Precision recall
 
 XGBoost
 https://xgboost.readthedocs.io/en/latest/
