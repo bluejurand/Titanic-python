@@ -19,7 +19,7 @@ Cross-Validation
 http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
 
 Model Evaluation
--Scores
+*Scores
 -Classification reports
 -Visualization tools
 -Precision recall
