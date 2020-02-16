@@ -34,7 +34,26 @@ Exemplary commands to install python libraries:
 	pip install xgboost  
 	pip install seaborn 
 	
-## Code example
+## Code examples
+
+	#Define a function which will replace the NaNs for age with mean, for each passenger class.
+	def impute_age(cols):
+		Age = cols[0]
+		Pclass = cols[1]
+		
+		if pd.isnull(Age):
+
+			if Pclass == 1:
+				return 37
+
+			elif Pclass == 2:
+				return 29
+
+			else:
+				return 24
+
+		else:
+			return Age
  
 	#Use grid search and cross-validation to tune the model
 	predictors = [x for x in train_scaled.columns]
