@@ -54,8 +54,7 @@ Exemplary commands to install python libraries:
 
 		else:
 			return Age  
-  
-  
+
 	#Use grid search and cross-validation to tune the model
 	predictors = [x for x in train_scaled.columns]
 	param_test1 = {
