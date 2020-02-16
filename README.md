@@ -1,7 +1,7 @@
-![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg) 
-![Python 3.6](https://img.shields.io/badge/python-3.3-blue.svg)  
 ![Titanic harbor](https://github.com/bluejurand/Titanic-python/blob/master/images/Titanic_harbor.jpg)  
 # Titanic-python
+![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg) 
+![Python 3.6](https://img.shields.io/badge/python-3.3-blue.svg)  
 Repository for Titanic-kaggle dataset, with data analysis and testing different classification algorithms.
 Link to original kaggle competition: https://www.kaggle.com/c/titanic
 
