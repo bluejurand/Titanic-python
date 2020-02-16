@@ -12,14 +12,18 @@ Python is a requirement (Python 3.3 or greater, or Python 2.7). Recommended envi
 
 __Installing dependencies__  
 To install can be used pip command in command line.  
-*pip install -r requirements.txt*
+'''
+pip install -r requirements.txt  
+'''
 
 __Installing python libraries__  
 Exemplary commands to install python libraries:  
-..**pip install numpy*  
-..**pip install pandas*  
-..**pip install xgboost*  
-..**pip install seaborn*
+'''
+* pip install numpy  
+* pip install pandas  
+* pip install xgboost  
+* pip install seaborn
+'''
 
 ## Key Concepts
 __Machine Learning__  
