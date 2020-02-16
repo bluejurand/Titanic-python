@@ -16,10 +16,10 @@ pip install -r requirements.txt
 
 __Installing python libraries__
 Exemplary commands to install python libraries:
-*pip install numpy
-*pip install pandas
-*pip install xgboost
-*pip install seaborn
+..*pip install numpy
+..*pip install pandas
+..*pip install xgboost
+..*pip install seaborn
 
 ## Key Concepts
 __Machine Learning__  
