@@ -38,7 +38,7 @@ Exemplary commands to install python libraries:
 
         this.isSomeCode = true;
 
-*  
+  
         addMoreCode();
 	
 ## Code examples
