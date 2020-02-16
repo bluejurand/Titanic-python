@@ -32,7 +32,20 @@ Exemplary commands to install python libraries:
 	pip install numpy  
 	pip install pandas  
 	pip install xgboost  
-	pip install seaborn
+	pip install seaborn 
+	
+## Code example
+ 
+	predictors = [x for x in train_scaled.columns]
+	param_test1 = {
+	 'max_depth':range(3,12,2),
+	 'min_child_weight':range(1,8,2)}
+	gsearch1 = GridSearchCV(estimator = XGBClassifier(learning_rate = 0.1, n_estimators = 140, max_depth = 5,
+	 min_child_weight = 1, gamma = 0, subsample = 0.8, colsample_bytree = 0.8,
+	 objective = 'binary:logistic', nthread = 4, scale_pos_weight = 1, seed = 27, return_train_score = False), 
+	 param_grid = param_test1, scoring = 'roc_auc', n_jobs = 4, iid = False, cv = 5)
+	 gsearch1.fit(train_scaled[predictors], y_train)
+	 gsearch1.cv_results_['params'], gsearch1.best_params_, gsearch1.best_score_
 
 ## Key Concepts
 __Machine Learning__  
