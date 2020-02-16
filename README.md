@@ -1,5 +1,6 @@
 ![Titanic harbor](https://github.com/bluejurand/Titanic-python/blob/master/images/Titanic_harbor.jpg)  
 # Titanic-python
+![Build status](https://travis-ci.org/bluejurand/Titanic-python.svg?branch=master) 
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg) 
 ![Python 3.6](https://img.shields.io/badge/python-3.3-blue.svg) 
 ![Jupyter Notebook 5.4.0](https://img.shields.io/badge/jupyter_notebook-5.4.0-orange.svg) 
