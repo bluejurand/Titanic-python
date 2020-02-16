@@ -34,13 +34,6 @@ Exemplary commands to install python libraries:
 	pip install xgboost  
 	pip install seaborn 
 	
-* example
-
-        this.isSomeCode = true;
-
-<!-- -->  
-        addMoreCode();
-	
 ## Code examples
 
 	#Define a function which will replace the NaNs for age with mean, for each passenger class.
@@ -61,8 +54,8 @@ Exemplary commands to install python libraries:
 
 		else:
 			return Age  
-	
-		#Use grid search and cross-validation to tune the model
+<!-- -->
+	#Use grid search and cross-validation to tune the model
 	predictors = [x for x in train_scaled.columns]
 	param_test1 = {
 	 'max_depth':range(3,12,2),
