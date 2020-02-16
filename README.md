@@ -36,6 +36,7 @@ Exemplary commands to install python libraries:
 	
 ## Code example
  
+	#Use grid search and cross-validation to tune the model
 	predictors = [x for x in train_scaled.columns]
 	param_test1 = {
 	 'max_depth':range(3,12,2),
