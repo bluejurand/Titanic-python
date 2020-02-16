@@ -34,6 +34,13 @@ Exemplary commands to install python libraries:
 	pip install xgboost  
 	pip install seaborn 
 	
+* example
+
+        this.isSomeCode = true;
+
+*  
+        addMoreCode();
+	
 ## Code examples
 
 	#Define a function which will replace the NaNs for age with mean, for each passenger class.
