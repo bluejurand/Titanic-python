@@ -2,6 +2,13 @@
 # Titanic-python
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg) 
 ![Python 3.6](https://img.shields.io/badge/python-3.3-blue.svg)  
+![Jupyter Notebook 5.4.0](https://img.shields.io/badge/jupyter_notebook-5.4.0-orange.svg)  
+![Scikit-learn 0.19.1](https://img.shields.io/badge/scikit-learn-0.19.1-orange.svg)  
+![Pandas 0.22.0](https://img.shields.io/badge/pandas-0.22.0-green.svg)  
+![Numpy 1.12.1](https://img.shields.io/badge/numpy-1.12.1-yellow.svg)  
+![Scipy 1.0.0](https://img.shields.io/badge/scipy-1.0.0-blue.svg)  
+![Matplotlib 2.1.2](https://img.shields.io/badge/matplotlib-2.1.2-blue.svg)  
+![Seaborn 0.8.1](https://img.shields.io/badge/seaborn-0.8.1-black.svg)  
 Repository for Titanic-kaggle dataset, with data analysis and testing different classification algorithms.
 Link to original kaggle competition: https://www.kaggle.com/c/titanic
 
