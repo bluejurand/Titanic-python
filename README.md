@@ -1,3 +1,4 @@
+![Titanic harbor](https://github.com/bluejurand/Titanic-python/blob/master/images/Titanic_harbor.jpg)  
 # Titanic-python
 Repository for Titanic-kaggle dataset, with data analysis and testing different classification algorithms.
 Link to original kaggle competition: https://www.kaggle.com/c/titanic
@@ -38,4 +39,6 @@ __Model Evaluation__
   -Precision recall
 
 __XGBoost__  
-https://xgboost.readthedocs.io/en/latest/
+https://xgboost.readthedocs.io/en/latest/  
+  
+![Features importance](https://github.com/bluejurand/Titanic-python/blob/master/images/Features%20importance.png)
