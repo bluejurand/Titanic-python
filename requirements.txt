@@ -1,5 +1,5 @@
 # imports
-numpy==1.12.1
+numpy==1.22.0
 pandas==0.22.0
 seaborn==0.8.1
 matplotlib==2.1.2
